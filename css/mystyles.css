@@ -1,0 +1,51 @@
+/* This is my CSS file */
+/* #4087f9 -- This is blue */
+/* #ffffff -- This is white*/
+
+body{
+	/*background-color: #4087f9; */
+	padding: 0;
+	margin: 0;
+	background-image: url("../images/blue_background2.jpg");
+
+}
+
+p{
+	font-family:'Abril Fatface', cursive;
+	color: #17258c;
+	font-size: 22pt;
+	padding-right: 10%;
+	padding-left: 10%;
+	text-shadow: 1px 1px #ffffff;
+}
+
+h1{
+	font-family:'Lobster', cursive;
+	color: #59f1ff;
+	text-align: center;
+	font-size: 50pt;
+	background-color: #17258c
+}
+
+h2{
+	font-family:'Bree Serif', serif;
+	color: #59f1ff;
+	text-align: center;
+	font-size: 17pt;
+	background-color: #17258c
+
+}
+
+h3{
+	font-family: 'Playfair Display', serif;
+	color: #ffffff;
+	font-size: 14pt;
+	padding-right: 2%;
+	padding-left: 2%;
+	text-shadow: 3px 3px #17258c
+}
+
+.TopPic{
+	text-align: center;
+	/* background-image: url("../images/blue_background2.jpg"); */
+}
